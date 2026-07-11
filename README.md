@@ -1,6 +1,6 @@
 # 📊 Análise Exploratória de Vendas com Python
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 Este projeto consiste em uma Análise Exploratória de Dados (EDA) utilizando Python. 
 Para isso, foi criada uma base de dados fictícia contendo informações sobre vendas de um 
@@ -66,7 +66,7 @@ estados e acompanhar a evolução do faturamento ao longo do período analisado.
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 
 Clone o repositório:
 
@@ -97,6 +97,11 @@ Graduada em Análise e Desenvolvimento de Sistemas e Administração, atualmente
 GitHub:
 https://github.com/Eduarda3Dio
 
-## 📈 Produtos mais vendidos
+## Produtos mais vendidos
 
 ![Top Produtos](images/top_10_produtos.png)
+
+## Evolução do Faturamento Mensal
+
+![Faturamento Mensal](images/faturamento_mensal.png)
+
