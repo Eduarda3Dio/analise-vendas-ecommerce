@@ -1,4 +1,4 @@
-# 📊 Análise Exploratória de Vendas com Python
+# Análise Exploratória de Vendas com Python
 
 ## Sobre o projeto
 
@@ -10,7 +10,7 @@ O objetivo é demonstrar habilidades em análise de dados utilizando as principa
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Gerar uma base de dados fictícia de vendas.
 - Realizar o tratamento e preparação dos dados.
@@ -20,7 +20,7 @@ O objetivo é demonstrar habilidades em análise de dados utilizando as principa
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Pandas
@@ -31,7 +31,7 @@ O objetivo é demonstrar habilidades em análise de dados utilizando as principa
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 analise-vendas-ecommerce
@@ -43,7 +43,7 @@ analise-vendas-ecommerce
 
 ---
 
-## 📊 Análises realizadas
+## Análises realizadas
 
 Durante o projeto foram desenvolvidas as seguintes análises:
 
@@ -57,7 +57,7 @@ Durante o projeto foram desenvolvidas as seguintes análises:
 
 ---
 
-## 📈 Principais resultados
+## Principais resultados
 
 A análise permitiu observar diferenças entre volume de vendas e faturamento dos produtos, 
 identificar categorias com maior representatividade financeira, comparar o desempenho entre 
