@@ -38,7 +38,6 @@ analise-vendas-ecommerce
 │
 ├── analise_exploratoria_vendas.ipynb
 ├── README.md
-├── requirements.txt
 └── images/
 ```
 
