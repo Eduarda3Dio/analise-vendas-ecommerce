@@ -97,11 +97,24 @@ Graduada em Análise e Desenvolvimento de Sistemas e Administração, atualmente
 GitHub:
 https://github.com/Eduarda3Dio
 
-## Produtos mais vendidos
+## Top 10 Produtos Mais Vendidos
 
-![Top Produtos](images/top_10_produtos.png)
+![Top Produtos](imagens/top_10_produtos.png)
+
+---
+
+## Faturamento por Categoria
+
+![Faturamento por Categoria](imagens/faturamento_categoria.png)
+
+---
+
+## Faturamento por Estado
+
+![Faturamento por Estado](imagens/faturamento_por_estado.png)
+
+---
 
 ## Evolução do Faturamento Mensal
 
-![Faturamento Mensal](images/faturamento_mensal.png)
-
+![Evolução Mensal](imagens/faturamento_mensal.png)
