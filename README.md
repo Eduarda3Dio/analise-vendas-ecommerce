@@ -96,3 +96,7 @@ Graduada em Análise e Desenvolvimento de Sistemas e Administração, atualmente
 
 GitHub:
 https://github.com/Eduarda3Dio
+
+## 📈 Produtos mais vendidos
+
+![Top Produtos](images/top_10_produtos.png)
